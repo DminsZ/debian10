@@ -1,6 +1,6 @@
 #!/bin/bash
 # Configure SSH Daemon to Permit access root remotely via OpenSSH server
-# Author: Bonveio <github.com/Bonveio/BonvScripts>
+# Author: Promdi Android-Pc Tips And Tricks
 
 # Check if machine has a sudo package
 if [[ ! "$(command -v sudo)" ]]; then
